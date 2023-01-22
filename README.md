@@ -1,14 +1,15 @@
-### 自己紹介 👋
+### Self Introduction 👋
 
-ウマ娘が大好きです(タキオンとデジタルとか)
+Hi, I'm a amateur programmer
 
-Apex大好きです
+I'm Japanese and living in Japan
 
-R5ReloadedのFlowstateのコントリビューターです
+Currently I can use C#, Lua, Squirrel and Haxe a little
 
-本家Apexを再現することに喜びを感じる変態です(要はオリジナルにこだわる面倒くさいやつです)
+I'm a school student so I'm not a programmer for now
 
-https://github.com/ColombianGuy/r5_flowstate
+Of course my dream is to be a programmer, so I'm learning about programming hard
+
 <!--
 **Endergreen12/Endergreen12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
