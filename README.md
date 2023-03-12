@@ -1,14 +1,10 @@
-### Self Introduction 👋
+### こんにちは / Hello
 
-Hi, I'm a amateur programmer
+日本人です
 
-I'm Japanese and living in Japan
+プログラミングは初心者です
 
-Currently I can use C#, Lua, Squirrel and Haxe a little
-
-I'm a school student so I'm not a programmer for now
-
-Of course my dream is to be a programmer, so I'm learning about programming hard
+よろしくお願いします
 
 <!--
 **Endergreen12/Endergreen12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
