@@ -1,10 +1,8 @@
-### こんにちは / Hello
+# 𝓥𝓪𝓷𝓲𝓽𝓪𝓼 𝓥𝓪𝓷𝓲𝓽𝓪𝓽𝓾𝓶 𝓮𝓽 𝓸𝓶𝓷𝓲𝓪 𝓥𝓪𝓷𝓲𝓽𝓪𝓼
 
-日本人です
+ばにたすばにたす... ᓀ‸ᓂ
 
-プログラミングは初心者です
-
-よろしくお願いします
+私はC#信者です(C#しか使えないだけ)
 
 <!--
 **Endergreen12/Endergreen12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
