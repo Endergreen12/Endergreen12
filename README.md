@@ -27,8 +27,12 @@
 
 - MediaCatalogやTableCatalogをbytesからjsonに変換するプログラム(jsonからbytesも可能)
 
-### [Blue-Archive-AssetBundle-Extractor](https://github.com/Endergreen12/Blue-Archive-AssetBundle-Extractor)
+### [PJSekai-Assets-Renamer](https://github.com/Endergreen12/PJSekai-Assets-Renamer)
 
-- AssetBundlsにあるAssetBundleをすべて展開するプログラム
+- プロセカのアセットをすべて復号化して元の名前に戻すプログラム
+
+### [Unity-AssetBundle-Extractor](https://github.com/Endergreen12/Unity-AssetBundle-Extractor)
+
+- AssetBundlesをすべて展開するスクリプト
 
 - 自分が唯一Pythonで書いたプログラム
